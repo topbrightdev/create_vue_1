@@ -33,6 +33,7 @@ import SupportIcon from './icons/IconSupport.vue'
     you need to test your components and web pages, check out
     <a href="https://www.cypress.io/" target="_blank" rel="noopener">Cypress</a> and
     <a href="https://on.cypress.io/component" target="_blank">Cypress Component Testing</a>.
+    <a href="https://on.cypress.io/component" target="_blank">Cypress Component Testing</a>.
 
     <br />
 
